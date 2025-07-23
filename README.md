@@ -8,4 +8,4 @@
 - Make some cool apps!
  
 ## Languages
-C • Java • HTML • CSS • Javascript • ASM
+  C • Java • HTML • CSS • Javascript • Python • ASM
