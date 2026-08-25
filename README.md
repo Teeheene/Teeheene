@@ -12,4 +12,4 @@
 - C++ 
 
 ## Relevant Skills
-Java • C • Python • mySQL • HTML & CSS • Javascript • Typescript • React • Tailwind • Git 
+Java • C/C++ • Python • mySQL • HTML & CSS • Javascript • Typescript • React • Tailwind • Git 
