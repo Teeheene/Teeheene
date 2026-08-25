@@ -3,11 +3,13 @@
 - College: De La Salle University (DLSU)
 - Currently works at Peer Tutor Society (PTS) as a Web Developer
 
-## Current Goals
-- Finish The Odin Project
-- Relearn Python 
-- Make some cool apps!
- 
+## Current Goals 2026
+- Commit to a big web-project
+- Create fun projects!
+
+## Currently Learning
+- Python
+- C++ 
+
 ## Relevant Skills
-  C • Java • HTML • CSS • Javascript • Python • ASM
-  React • Tailwind • Git 
+Java • C • Python • mySQL • HTML & CSS • Javascript • Typescript • React • Tailwind • Git 
