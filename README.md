@@ -1,15 +1,18 @@
-# Hi! I'm Diane 🕶
+# Hi! I'm Diane Panganiban
 - Major:   Computer Systems Engineer
-- College: De La Salle University (DLSU)
-- Currently works at Peer Tutor Society (PTS) as a Web Developer
+- College: 3rd Year, De La Salle University (DLSU)
+- Currently working at Peer Tutor Society (PTS) as a Web Developer
 
-## Current Goals 2026
-- Commit to a big web-project
-- Create fun projects!
+## Current Goals (2026)
+- Finish Programming Principles and Practices Using C++ (PPP3) 
+- Create a networking app/ game in C++
 
-## Currently Learning
-- Python
-- C++ 
+## Current Fixations 
+- C++ (Fixing foundations)
+- Leetcode
 
 ## Relevant Skills
-Java • C/C++ • Python • mySQL • HTML & CSS • Javascript • Typescript • React • Tailwind • Git 
+LANGUAGES: Java • C • C++ • Python • Javascript • Typescript • HTML & CSS (lol)
+FRAMEWORKS/ LIBRARIES: React • Tailwind CSS 
+TOOLS: Git • Linux • Neovim
+DATABASES: MySQL
