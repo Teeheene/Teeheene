@@ -13,7 +13,7 @@
 - Leetcode
 
 ## Relevant Skills
-LANGUAGES: Java • C • C++ • Python • Javascript • Typescript • HTML & CSS (lol)
-FRAMEWORKS/ LIBRARIES: React • Tailwind CSS 
-TOOLS: Git • Linux • Neovim
-DATABASES: MySQL
+- LANGUAGES: Java • C • C++ • Python • Javascript • Typescript • HTML & CSS (lol)
+- FRAMEWORKS/ LIBRARIES: React • Tailwind CSS
+- TOOLS: Git • Linux • Neovim
+- DATABASES: MySQL
